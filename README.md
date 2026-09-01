@@ -73,8 +73,7 @@
 
 Геолокационный сервис, демонстрирующий архитектуру бэкенда и проектирование баз данных.
 
-## 💡 Core Skills
-
+**Ключевые особенности:**
 - Разработка REST API
 - Архитектура бэкенда
 - Проектирование баз данных
@@ -83,6 +82,21 @@
 - Pull Requests
 - Code Review
 - Разработка на базе Docker
+
+### Meeting Room Booking Service
+
+Сервис для автоматизации бронирования конференц-залов в коворкинг-пространстве.
+
+**Ключевые особенности:**
+- JWT authentication
+- Role-based access control (Admin/User)
+- FastAPI
+- PostgreSQL
+- SQLAlchemy 2.x
+- Alembic
+- Docker / Docker Compose
+- Automation testing (pytest)
+
 
 ## 📚 Currently Learning
 
