@@ -83,6 +83,8 @@
 - Code Review
 - Разработка на базе Docker
 
+---
+
 ### Meeting Room Booking Service
 
 Сервис для автоматизации бронирования конференц-залов в коворкинг-пространстве.
@@ -97,6 +99,7 @@
 - Docker / Docker Compose
 - Automation testing (pytest)
 
+---
 
 ## 📚 Currently Learning
 
