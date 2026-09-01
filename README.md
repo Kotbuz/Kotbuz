@@ -1,4 +1,3 @@
-
 # Hi there, I'm Efim Kolupaev 👋
 
 <h1 align="center">Efim Kolupaev (Ефим Колупаев)</h1>
@@ -13,14 +12,6 @@
 Имею опыт командной разработки в проектах с использованием **Git Flow**, **Pull Requests** и **Code Review**. В рамках производственной практики выступал одним из **Project Manager** команды (~30 человек), координируя разработку сервиса бронирования.
 
 В настоящее время работаю над **Recipe Tree Visualizer**, изучая Java, JVM и обработку игровых данных Minecraft.
-
-## 🇬🇧 About Me
-
-Backend Python Developer and Software Engineering student graduating in 2027.
-
-I focus on building backend applications with **Python**, **FastAPI**, **SQLAlchemy** and **PostgreSQL**. I enjoy designing application architecture, developing REST APIs and working in team environments.
-
-Currently exploring **Java**, **JVM** and Minecraft recipe parsing while developing **Recipe Tree Visualizer**.
 
 ## 🛠 Tech Stack
 
@@ -50,38 +41,25 @@ Currently exploring **Java**, **JVM** and Minecraft recipe parsing while develop
 ## 🚀 Featured Projects
 
 ### Booking Management System
-Production-style team project for booking management.
+Командный проект ресторанного уровня для управления бронированием.
 
-**Highlights**
+**Ключевые особенности:**
 - REST API
 - FastAPI
 - PostgreSQL
 - SQLAlchemy
 - Docker
-- Monitoring stack
-- Team development
-- Project management experience
-
----
-
-### Recipe Tree Visualizer
-Application for visualizing Minecraft crafting dependency trees.
-
-**Highlights**
-- Backend + Frontend
-- Architecture documentation
-- UML diagrams
-- Docker
-- GitHub Actions
-- Desktop client (Tauri)
+- Стек мониторинга
+- Командная разработка
+- Опыт управления проектами
 
 ---
 
 ### Fix My Kit
 
-Service-oriented full-stack application developed in a team.
+Сервисно-ориентированное full-stack приложение, разработанное в команде.
 
-**Highlights**
+**Ключевые особенности:**
 - FastAPI
 - React
 - Docker
@@ -93,25 +71,23 @@ Service-oriented full-stack application developed in a team.
 
 ### Yandex GeoBase
 
-Geolocation service demonstrating backend architecture and database design.
+Геолокационный сервис, демонстрирующий архитектуру бэкенда и проектирование баз данных.
 
 ## 💡 Core Skills
 
-- REST API development
-- Backend architecture
-- Database design
-- Team development
+- Разработка REST API
+- Архитектура бэкенда
+- Проектирование баз данных
+- Командная разработка
 - Git Flow
 - Pull Requests
 - Code Review
-- Docker-based development
+- Разработка на базе Docker
 
 ## 📚 Currently Learning
 
-- Java & JVM
-- Minecraft data processing
-- Application architecture
-- Advanced backend development
+- Архитектура приложений
+- Продвинутая бэкенд-разработка
 
 ## 📫 Contacts
 
@@ -121,7 +97,7 @@ Geolocation service demonstrating backend architecture and database design.
 
 ## 🎯 Career Goal
 
-Currently open to **Junior Backend Python Developer** opportunities, internships and collaborative projects.
+В настоящее время открыт для вакансий **Junior Backend Python Developer**, стажировок и совместных проектов.
 
 ---
-⭐ Thanks for visiting my profile!
+⭐ Спасибо, что посетили мой профиль!
