@@ -1,9 +1,7 @@
-# Hi there, I'm Efim Kolupaev 👋
-
 <h1 align="center">Efim Kolupaev (Ефим Колупаев)</h1>
 <h3 align="center">Backend Python Developer | Student | Open to Work</h3>
 
-## 🇷🇺 О себе
+## О себе
 
 Студент Международного колледжа цифровых технологий «Академия ТОП» по специальности **09.02.07 "Информационные системы и программирование"** (выпуск — 2027).
 
